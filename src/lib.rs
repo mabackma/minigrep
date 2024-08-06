@@ -1,3 +1,6 @@
+//! # minigrep
+//! 
+//! `minigrep` is a simple implementation of the `grep` command-line utility.
 use std::error::Error;
 use std::{fs, env};
 
